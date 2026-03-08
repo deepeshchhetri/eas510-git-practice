@@ -2,7 +2,7 @@
 *.pyc
 __pycache__/
 
-# Data folders
+# Data
 data/
 
 # ML Models
